@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+#cabecera{
+    background-color: greenyellow;
+    text-align: center;
+}
+#principal{
+    background-color: antiquewhite;
+}
+#articulo{
+    background-color: darkorange;
+    text-align: center;
+}
+#pie{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-color:pink;
+}
